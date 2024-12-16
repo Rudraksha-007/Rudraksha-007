@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rudraksha-007
-- 👀 I’m interested in learning Web development and also a DSA enthusiast my leetcode ID : rudrakshadwivedi18
+- 👀 I’m interested in learning Web development and also a DSA enthusiast
 - 🌱 I’m currently learning HTML and CSS responsive web design
 - ⭕Red dead 2 fannn
 <!---
