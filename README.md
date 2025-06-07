@@ -26,11 +26,12 @@
   <!-- Added tools -->
   
 
-    <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="display: inline-block;">
+    
+
+  <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="display: inline-block;">
     <img 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
          alt="postgresql" width="42" height="42" />
-  
   <a target="_blank" href="https://www.postgresql.org/" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42" />
   </a>
