@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Rudraksha Dwivedi</h1>
-<p>An aspiring engineer and a problem solver</p>
+<p>The craft is in the engineering, not the syntax.</p>
+<p>An aspiring engineer and a problem solver! =￣ω￣= </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;">
