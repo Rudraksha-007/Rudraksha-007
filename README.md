@@ -6,7 +6,7 @@
 ---
 
 ## __main__ :
-since u here lahh : 
+since u here: 
 Go check out my projects where the real story is.
 
 
