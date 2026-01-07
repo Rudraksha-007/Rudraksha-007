@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraksha-007&label=Profile%20views&color=b40e0e&style=flat" alt="rudraksha-007" /> </p>
 
-- 👨‍💻 All of my projects are available at [here.](here.)
-
-- 📝 I regularly write articles on [projects i make usually](projects i make usually)
+- 👨‍💻 All of my projects are available at here
 
 - 📫 How to reach me **rudrakshadwivedi18@gmail.com**
 
