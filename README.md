@@ -1,4 +1,4 @@
-<h1 align="center">hihihihi Rudraksha Dwivedi</h1>
+<h1 align="center">Rudraksha Dwivedi</h1>
 <h3 align="center">You forget a thousand changes every day. Make sure this is reviewed.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraksha-007&label=Profile%20views&color=b40e0e&style=flat" alt="rudraksha-007" /> </p>
